@@ -1,0 +1,11 @@
+.logo__item {
+  list-style-type: none;
+  font-family: "Cabin";
+  font-weight: bold;
+  font-size: 19px;
+  line-height: 23px;
+}
+
+.logo__item:first-child {
+  padding-right: 5px;
+}

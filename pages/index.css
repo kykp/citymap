@@ -1,0 +1,82 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/logo/logo.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__nav/header__nav.css);
+@import url(../blocks/header/__nav-lists/header__nav-lists.css);
+@import url(../blocks/header/__nav-list/header__nav-list.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/page/__header/page__header.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/logo/__item/logo__item.css);
+@import url(../blocks/header/__content/header__content.css);
+@import url(../blocks/header/__search/header__search.css);
+@import url(../blocks/header/__content/header__content.css);
+@import url(../blocks/header/__content-img/header__content-img.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__search-icon/header__search-icon.css);
+@import url(../blocks/header/__input/header__input.css);
+@import url(../blocks/header/__search-button/header__search-button.css);
+
+@import url(../blocks/page/__promo/page__promo.css);
+@import url(../blocks/promo/promo.css);
+@import url(../blocks/promo/__title/promo__title.css);
+@import url(../blocks/promo/__img/promo__img.css);
+@import url(../blocks/promo/__subtitle/promo__subtitle.css);
+@import url(../blocks/promo/__bubble/_color/_blue/bubble_color_blue.css);
+@import url(../blocks/promo/__bubble/_color/_orange/bubble_color_orange.css);
+@import url(../blocks/promo/__bubble/_color/_purple/bubble_color_purple.css);
+
+@import url(../blocks/city-app/city-app.css);
+@import url(../blocks/city-app/__tree/city-app__tree.css);
+@import url(../blocks/city-app/__people/city-app__people.css);
+@import url(../blocks/city-app/__icon/city-app__icon.css);
+@import url(../blocks/page/__city-app/page__city-app.css);
+
+@import url(../blocks/step-1/step-1.css);
+@import url(../blocks/step-1/__img/step-1__img.css);
+@import url(../blocks/step-1/__content/step-1__content.css);
+@import url(../blocks/step-1/__content-img/step-1__content-img.css);
+@import url(../blocks/step-1/__bubble/_color/_blue/step-1__bubble_color_blue.css);
+@import url(../blocks/step-1/__tree/step-1__tree.css);
+
+@import url(../blocks/step-2/step-2.css);
+@import url(../blocks/step-2/__img/step-2__img.css);
+@import url(../blocks/step-2/__content/step-2__content.css);
+@import url(../blocks/step-2/__content-img/step-2__content-img.css);
+@import url(../blocks/step-2/__tree/step-2__tree.css);
+@import url(../blocks/step-2/__bubble/_color/_blue/step-2__bubble_color_blue.css);
+@import url(../blocks/step-2/__arrow/step-2__arrow.css);
+
+@import url(../blocks/t-content/t-content.css);
+@import url(../blocks/s-content/s-content.css);
+@import url(../blocks/p-content/p-content.css);
+
+@import url(../blocks/page/__mobile-app/page__mobile-app.css);
+@import url(../blocks/mobile-app/mobile-app.css);
+@import url(../blocks/mobile-app/__content/mobile-app__content.css);
+@import url(../blocks/mobile-app/__download/mobile-app__download.css);
+@import url(../blocks/mobile-app/__phone/mobile-app__phone.css);
+@import url(../blocks/mobile-app/__subtitle/mobile-app__subtitle.css);
+@import url(../blocks/mobile-app/__title/mobile-app__title.css);
+@import url(../blocks/mobile-app/__button/mobile-app__button.css);
+@import url(../blocks/mobile-app/__i-icon/mobile-app__i-icon.css);
+@import url(../blocks/mobile-app/__a-icon/mobile-app__a-icon.css);
+
+@import url(../blocks/decortations/decorations.css);
+@import url(../blocks/decortations/__leaf/decorations__leaf.css);
+@import url(../blocks/decortations/__circle/decorations__circle.css);
+@import url(../blocks/decortations/__bubble/_color/_blue/decorations__bubble_color_blue.css);
+@import url(../blocks/decortations/__bubble/_color/_orange/decorations__bubble_color_orange.css);
+@import url(../blocks/decortations/__bubble/_color/_purple/decorations__bubble_color_purple.css);
+@import url(../blocks/decortations/__bubble/_color/_yellow/decorations__bubble_color_yellow.css);
+@import url(../blocks/decortations/__waves/decorations__waves.css);
+@import url(../blocks/decortations/__eclipse-3/decorations__eclipse-3.css);
+
+@import url(../blocks/page/__footer/page__footer.css);
+@import url(../blocks/footer/__content/footer__content.css);

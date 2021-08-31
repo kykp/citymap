@@ -1,0 +1,10 @@
+.header__nav-lists {
+  font-family: "Cabin", Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}

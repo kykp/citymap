@@ -1,0 +1,10 @@
+.page__promo {
+  margin: 0 auto;
+  margin-top: 125px;
+  min-height: 2600px;
+  text-align: center;
+  position: relative;
+  background-image: url(../../../images/body_snake_bg.png);
+  background-repeat: no-repeat;
+  background-position: 0px 800px;
+}

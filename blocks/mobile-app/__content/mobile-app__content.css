@@ -1,0 +1,6 @@
+.mobile-app__content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}

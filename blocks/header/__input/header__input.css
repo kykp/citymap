@@ -1,0 +1,19 @@
+.header__input {
+  min-width: 475px;
+  min-height: 62px;
+  border-radius: 32px;
+  border: none;
+  margin-top: 58px;
+  padding-left: 90px;
+}
+
+.header__input::placeholder {
+  font-family: "cabin", Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 19px;
+  line-height: 23px;
+  color: #bdd3df;
+}
+.header__input:focus {
+  outline: none;
+}

@@ -1,0 +1,11 @@
+.header__nav-list {
+  margin-right: 25px;
+}
+
+.header__nav-list:last-child {
+  margin-right: 0;
+}
+
+.header__nav-list:hover {
+  box-shadow: 0px 2px 1px white;
+}

@@ -1,0 +1,10 @@
+.mobile-app__title {
+  font-family: "Gilroy", Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  line-height: 61px;
+  color: #fff;
+  max-width: 400px;
+  text-align: left;
+  margin: 0;
+  margin-top: 50px;
+}

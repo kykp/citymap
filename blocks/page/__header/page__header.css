@@ -1,0 +1,12 @@
+.page__header {
+  margin: 0 auto;
+  padding-top: 47px;
+  max-width: 1440px;
+  min-height: 918px;
+  color: #ffffff;
+  background-image: url("../../../images/header_img_3.svg"),
+    url("../../../images/header_img_2.svg"),
+    url("../../../images/header_img.jpg");
+  background-position: 0% 94%, 0% -10%, 0% 0%;
+  background-repeat: no-repeat;
+}

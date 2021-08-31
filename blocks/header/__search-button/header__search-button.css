@@ -1,0 +1,15 @@
+.header__search-button {
+  position: absolute;
+  min-width: 88px;
+  min-height: 54px;
+  background-color: #13f1fc;
+  border-radius: 50px;
+  right: 1%;
+  top: 52%;
+  border: none;
+  cursor: pointer;
+}
+
+.header__search-button:active {
+  box-shadow: 1px 3px 1px #090a0a41;
+}

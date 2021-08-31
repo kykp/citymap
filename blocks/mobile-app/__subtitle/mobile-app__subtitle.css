@@ -1,0 +1,10 @@
+.mobile-app__subtitle {
+  color: #b7e6ff;
+  max-width: 380px;
+  text-align: left;
+  font-family: Cabin;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 22px;
+}
